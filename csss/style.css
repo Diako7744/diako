@@ -1,0 +1,102 @@
+html{
+  height: 100%
+}
+h1{
+font-size: 30px;
+}
+body{
+background-image: url("new-background.jpg");
+  font-family: 'Pacifico', cursive;
+  color: red;
+  margin: 0;
+}
+.top-container {
+  width: 500px;
+  margin: 0: auto;
+}
+.navigation li{display: inline-block;
+  margin: 0 15px;
+  color: aqua;
+}
+.navigation {
+  text-align: center;
+}
+nav {
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  right: 0;
+}
+p{
+  font-size: 15px;
+font-family: 'Pacifico', cursive;
+line-height: 150%;
+}
+
+img{
+max-width: 100%;
+margin-top: 0px
+}
+
+a{
+  color: aqua;
+  font-weight: normal;
+text-decoration: none;
+}
+
+h{
+  font-size: 10px;
+}
+
+.left-col {
+text-align: center;
+}
+.right-col {
+text-align: center;
+.head{
+    color: pink;
+  }
+
+}
+.caption{
+
+}
+.col{
+}
+footer{
+  background-color: pink;
+  background-image: url("../img/social.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+
+}
+
+.social-icons-container {
+  text-align: center;
+
+}
+.social-icons{
+height: 50px;
+margin: 10px 20px;
+background-color: #00cffa;
+}
+.scroll {
+  color: aqua;
+  text-align: center;
+}
+.left-col, .right-col {
+
+}
+.ryonn{
+  width: 415px;
+  height: 622px;
+}
+.makh{
+  padding-top: 25px;
+}
